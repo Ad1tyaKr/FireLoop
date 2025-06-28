@@ -26,6 +26,7 @@ Fireloop is an AI-powered multimedia streaming prototype that personalizes the v
 - Emotion-aware subtitles
 - Visual mood indicators
 - Gesture navigation support
+- Fast Rendering
 
 
 ## 🚀 Getting Started
